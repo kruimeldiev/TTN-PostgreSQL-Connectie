@@ -1,1 +1,1 @@
-web: java -cp src/main/java/org/example/App.java
+web: java -cp target/classes/org/example/App.class
