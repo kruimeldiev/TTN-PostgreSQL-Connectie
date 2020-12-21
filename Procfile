@@ -1,1 +1,1 @@
-web: java -cp target/classes/org/example/App.class
+web: java -jar target/GasModulePostgreSQL-1.0-SNAPSHOT.jar
