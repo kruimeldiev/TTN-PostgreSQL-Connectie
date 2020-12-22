@@ -1,1 +1,1 @@
-web: java -jar target/GasModulePostgreSQL-1.0-SNAPSHOT.jar
+web: java $JAVA_OPTS -cp target/GasModulePostgreSQL-1.0-SNAPSHOT
