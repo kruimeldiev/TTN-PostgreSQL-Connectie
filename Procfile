@@ -1,1 +1,1 @@
-web: java -jar target/GasModulePostgreSQL-1.0-SNAPSHOT.jar
+web: java -jar out/artifacts/TTN_PostgreSQL_Connectie_jar/TTN_PostgreSQL_Connectie.jar
